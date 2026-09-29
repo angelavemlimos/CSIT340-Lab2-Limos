@@ -5,12 +5,12 @@ export default function Navbar() {
         <nav>
             <div>
                 <a href="#top" className="text-blue-600 underline">Juan dela Cruz</a>
-                <div className="text-blue-600 underline">
-                    <NavLink href="#about" label="About " />
-                    <NavLink href="#skills" label="Skills " />
-                    <NavLink href="#projects" label="Projects " />
-                    <NavLink href="#experience" label="Experience " />
-                    <NavLink href="#contact" label="Contact " />
+                <div className="mt-1">
+                    <NavLink href="#about" label="About" />
+                    <NavLink href="#skills" label="Skills" />
+                    <NavLink href="#projects" label="Projects" />
+                    <NavLink href="#experience" label="Experience" />
+                    <NavLink href="#contact" label="Contact" />
                 </div>
             </div>
         </nav>
