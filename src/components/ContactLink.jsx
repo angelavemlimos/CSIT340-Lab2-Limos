@@ -1,8 +1,8 @@
 export default function ContactLink({ label, href, text }) {
     return (
-        <li className="mb-2" list-none>
-            <span className="inline-block w-20 text-black font-normal">{label}:</span>
-            <a href={href} className="text-blue-600 underline">{text}</a>
+        <li>
+            <span className="inline-block w-24 text-sm text-stone-500">{label}</span>
+            <a href={href} className="font-medium hover:underline">{text}</a>
         </li>
     );
 }

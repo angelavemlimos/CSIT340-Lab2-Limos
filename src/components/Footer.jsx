@@ -1,9 +1,9 @@
 export default function Footer() {
     return (
-        <footer className="mt-12 mb-6">
-            <p className="text-sm text-black">
-                © 2026 Angela Vem D. Limos. Built with React and Tailwind CSS for CSIT340."
-            </p>
+        <footer className="border-t border-stone-200">
+            <div className="max-w-4xl mx-auto px-6 py-8 text-sm text-stone-500">
+                © 2026 Angela Vem D. Limos. Built with React and Tailwind CSS for CSIT340.
+            </div>
         </footer>
     );
 }

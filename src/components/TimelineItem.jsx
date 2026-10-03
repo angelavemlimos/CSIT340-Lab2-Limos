@@ -1,10 +1,10 @@
 export default function TimelineItem({ period, title, place, description }) {
     return (
-        <li className="mb-4 list-none">
-            <p className="text-sm text-black">{period}</p>
-            <h3 className="text-base font-bold font-serif text-black">{title}</h3>
-            <p className="text-sm text-black">{place}</p>
-            <p className="text-base text-black">{description}</p>
+        <li className="pl-6">
+            <p className="text-sm text-stone-500">{period}</p>
+            <h3 className="mt-1 font-semibold">{title}</h3>
+            <p className="text-sm text-stone-600">{place}</p>
+            <p className="mt-2 text-sm leading-relaxed text-stone-600">{description}</p>
         </li>
     );
 }
