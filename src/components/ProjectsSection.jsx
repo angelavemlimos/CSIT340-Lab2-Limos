@@ -11,28 +11,28 @@ export default function ProjectsSection() {
                     title="About Me in React"
                     description="My first React project, rebuilt from a plain HTML page."
                     tech="React · Tailwind CSS"
-                    link="https://github.com/angelalimos/CSIT340-Lab1-Limos"
+                    link="https://github.com/angelavemlimos/CSIT340-Lab2-Limos"
                 />
                 <ProjectCard
-                    year="2025"
-                    title="Canteen Queue"
-                    description="A page that shows how long the canteen line is so students can decide when to go."
-                    tech="HTML · CSS · JavaScript"
-                    link="https://github.com/angelalimos/canteen-queue"
+                    year="2026"
+                    title="OOP RPG Game"
+                    description="A game built with object-oriented programming principles."
+                    tech="Java"
+                    link="https://github.com/warnbs/OOP-RPG-Game"
                 />
                 <ProjectCard
-                    year="2025"
-                    title="Clinic Records"
-                    description="A desktop app for our database class that keeps visit records for a small clinic."
-                    tech="Java · MySQL"
-                    link="https://github.com/angelalimos/clinic-records"
+                    year="2026"
+                    title="StudySpotFinder"
+                    description="A PHP web app that helps students find study spots in their area."
+                    tech="PHP · MySQL"
+                    link="https://github.com/angelavemlimos/StudySpotFinder"
                 />
                 <ProjectCard
-                    year="2024"
-                    title="Org Event Page"
-                    description="A one-page site for our org's freshman orientation, with the schedule and venue."
-                    tech="HTML · Bootstrap"
-                    link="https://github.com/angelalimos/org-event-page"
+                    year="2026"
+                    title="First PHP App"
+                    description="A student registration system built with PHP and MySQL."
+                    tech="PHP · MySQL"
+                    link="https://github.com/angelavemlimos/First-PHP-App"
                 />
             </div>
         </section>

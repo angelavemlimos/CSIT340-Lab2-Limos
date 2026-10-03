@@ -19,7 +19,7 @@ export default function ContactSection() {
                 <ContactLink
                     label="LinkedIn"
                     href="https://www.linkedin.com/in/angelavemlimos/"
-                    text="linkedin.com/in/angelavemlimos"
+                    text="www.linkedin.com/in/angela-vem-limos"
                 />
             </ul>
         </section>
